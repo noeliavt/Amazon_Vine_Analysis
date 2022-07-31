@@ -18,7 +18,7 @@ The purpose of this project is analyze Amazon reviews written by members of the 
   <img  src="Resources/VineY.png">
 </p>
 
-Non-Vine reviews Results
+### Non-Vine reviews Results
 <p align="center">
   <img  src="Resources/VineN.png">
 </p>
